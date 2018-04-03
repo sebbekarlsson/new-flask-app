@@ -18,9 +18,7 @@
     └── app
         ├── APP_NAME
         │   ├── __init__.py
-        │   ├── __init__.pyc
         │   ├── app.py
-        │   ├── app.pyc
         │   ├── static
         │   │   ├── css
         │   │   ├── image
@@ -33,8 +31,6 @@
         │   │   └── layout.html
         │   └── views
         │       ├── __init__.py
-        │       ├── __init__.pyc
         │       ├── index.py
-        │       └── index.pyc
         ├── __main__.py
         └── setup.py
