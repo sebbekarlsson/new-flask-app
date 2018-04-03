@@ -1,6 +1,13 @@
 # new-flask-app
 > Create a new flask application using this simple command
 
+## Features
+
+* One blueprint for the index
+* One template for the index
+* One basic jinja layout with refs to all assets
+* Javascript minifier (jsmin)
+
 ## Install
 > To install it on your system:
 
