@@ -34,3 +34,9 @@
         │       ├── index.py
         ├── __main__.py
         └── setup.py
+
+## Running your created app
+> To run the app you created, go into its directory and execute:
+
+    $ python setup.py install
+    $ python __main__.py
