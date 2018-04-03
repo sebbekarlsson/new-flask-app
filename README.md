@@ -24,7 +24,6 @@
         │   │   ├── image
         │   │   └── js
         │   │       ├── app.js
-        │   │       ├── packed.js
         │   │       └── utils.js
         │   ├── templates
         │   │   ├── index.html
