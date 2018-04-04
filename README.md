@@ -7,6 +7,7 @@
 * One template for the index
 * One basic jinja layout with refs to all assets
 * Javascript minifier (jsmin)
+* Password encryption module using bcrypt
 
 ## Install
 > To install it on your system:
