@@ -23,11 +23,12 @@
 > This will create a directory called `app` with the basic
 > flask structure:
 
-
     └── app
         ├── APP_NAME
         │   ├── __init__.py
         │   ├── app.py
+        │   ├── config.py
+        │   ├── password.py
         │   ├── static
         │   │   ├── css
         │   │   ├── image
@@ -41,6 +42,8 @@
         │       ├── __init__.py
         │       ├── index.py
         ├── __main__.py
+        ├── config.example.json
+        ├── config.json
         └── setup.py
 
 ## Running your created app
