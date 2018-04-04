@@ -28,4 +28,5 @@ def run():
     app.run(debug=True, threaded=True)
 
 
-run()
+if __name__ == '__main__':
+    run()
