@@ -8,6 +8,7 @@
 * One basic jinja layout with refs to all assets
 * Javascript minifier (jsmin)
 * Password encryption module using bcrypt
+* Configuration file (json)
 
 ## Install
 > To install it on your system:

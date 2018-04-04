@@ -1,5 +1,6 @@
 import os
 from APP_NAME.app import app
+from APP_NAME.config import config
 import flask_assets
 
 
@@ -25,7 +26,10 @@ def run():
         )
     )
 
-    app.run(debug=True, threaded=True)
+    app.run(
+        debug=config['debug'] if 'debug' in config else False,
+        threaded=config['threaded'] if 'threaded' in config else False
+    )
 
 
 if __name__ == '__main__':
