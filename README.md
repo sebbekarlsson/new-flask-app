@@ -1,6 +1,8 @@
 # new-flask-app
 > Create a new flask application using this simple command
 
+![demo.gif](demo.gif)
+
 ## Features
 
 * One blueprint for the index
